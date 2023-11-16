@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+.information {
+    text-align: center;
+}
+    
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+    
+#one, #two, #tree, #four, #five {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+    
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+    
+h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+    
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+    
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
